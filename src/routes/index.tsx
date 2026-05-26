@@ -17,8 +17,8 @@ function Home() {
 
 					<p>
 						A high-performance registry for procedural agent skills. Discover,
-						publish, and operate reusable agent capabilitiers from a
-						route-driven workspace.
+						publish, and operate reusable agent capabilities from a route-driven
+						workspace.
 					</p>
 				</div>
 
@@ -40,7 +40,7 @@ function Home() {
 					</h2>
 					<p>
 						{" "}
-						Latest skills loaded from database in descending cre tion order.
+						Latest skills loaded from database in descending creation order.
 					</p>
 				</div>
 
