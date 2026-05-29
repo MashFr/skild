@@ -2,11 +2,9 @@ import { Link } from "@tanstack/react-router";
 import {
 	ArrowBigUp,
 	ArrowUpRight,
-	BookMarked,
 	Bookmark,
 	Check,
 	Copy,
-	ListMinus,
 	MessageSquare,
 } from "lucide-react";
 import { useState } from "react";
